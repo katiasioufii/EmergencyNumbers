@@ -85,7 +85,7 @@ To use this file in your project, you can either:
 
 ### Example of Accessing Data (in JavaScript):
 ```javascript
-fetch('path-to-your-json-file.json')
+fetch('https://github.com/katiasioufii/EmergencyNumbers/blob/main/EmergencyNumbers.json)'
   .then(response => response.json())
   .then(data => {
     console.log(data.US.police);  // Logs the police emergency number for the US
