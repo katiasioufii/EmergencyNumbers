@@ -1,0 +1,457 @@
+{
+  "US": {
+    "police": ["911"],
+    "fire": ["911"],
+    "ambulance": ["911"],
+    "disaster": ["911"]
+  },
+  "CA": {
+    "police": ["911"],
+    "fire": ["911"],
+    "ambulance": ["911"],
+    "disaster": ["911"]
+  },
+  "MX": {
+    "police": ["911"],
+    "fire": ["911"],
+    "ambulance": ["911"],
+    "disaster": ["911"]
+  },
+  "BR": {
+    "police": ["190"],
+    "fire": ["193"],
+    "ambulance": ["192"],
+    "disaster": ["199"]
+  },
+  "AR": {
+    "police": ["911"],
+    "fire": ["100"],
+    "ambulance": ["107"],
+    "disaster": ["100"]
+  },
+  "CO": {
+    "police": ["123"],
+    "fire": ["119"],
+    "ambulance": ["123"],
+    "disaster": ["123"]
+  },
+  "CL": {
+    "police": ["133"],
+    "fire": ["132"],
+    "ambulance": ["131"],
+    "disaster": ["133"]
+  },
+  "PE": {
+    "police": ["105"],
+    "fire": ["116"],
+    "ambulance": ["117"],
+    "disaster": ["116"]
+  },
+  "EC": {
+    "police": ["911"],
+    "fire": ["911"],
+    "ambulance": ["911"],
+    "disaster": ["911"]
+  },
+  "AU": {
+    "police": ["000"],
+    "fire": ["000"],
+    "ambulance": ["000"],
+    "disaster": ["000"]
+  },
+  "NZ": {
+    "police": ["111"],
+    "fire": ["111"],
+    "ambulance": ["111"],
+    "disaster": ["111"]
+  },
+  "ZA": {
+    "police": ["10111"],
+    "fire": ["10177"],
+    "ambulance": ["10177"],
+    "disaster": ["112"]
+  },
+  "EG": {
+    "police": ["122"],
+    "fire": ["180"],
+    "ambulance": ["123"],
+    "disaster": ["112"]
+  },
+  "KE": {
+    "police": ["999"],
+    "fire": ["999"],
+    "ambulance": ["999"],
+    "disaster": ["112"]
+  },
+  "NG": {
+    "police": ["112"],
+    "fire": ["112"],
+    "ambulance": ["112"],
+    "disaster": ["07088546233"]
+  },
+  "DZ": {
+    "police": ["17"],
+    "fire": ["14"],
+    "ambulance": ["14"],
+    "disaster": ["112"]
+  },
+  "MA": {
+    "police": ["19"],
+    "fire": ["19"],
+    "ambulance": ["19"],
+    "disaster": ["112"]
+  },
+  "TH": {
+    "police": ["191"],
+    "fire": ["199"],
+    "ambulance": ["1669"],
+    "disaster": ["112"]
+  },
+  "VN": {
+    "police": ["113"],
+    "fire": ["114"],
+    "ambulance": ["115"],
+    "disaster": ["112"]
+  },
+  "MY": {
+    "police": ["999"],
+    "fire": ["994"],
+    "ambulance": ["999"],
+    "disaster": ["999"]
+  },
+  "SG": {
+    "police": ["999"],
+    "fire": ["995"],
+    "ambulance": ["995"],
+    "disaster": ["112"]
+  },
+  "IN": {
+    "police": ["100"],
+    "fire": ["101"],
+    "ambulance": ["102"],
+    "disaster": ["108"]
+  },
+  "CN": {
+    "police": ["110"],
+    "fire": ["119"],
+    "ambulance": ["120"],
+    "disaster": ["12322"]
+  },
+  "JP": {
+    "police": ["110"],
+    "fire": ["119"],
+    "ambulance": ["119"],
+    "disaster": ["119"]
+  },
+  "KR": {
+    "police": ["112"],
+    "fire": ["119"],
+    "ambulance": ["119"],
+    "disaster": ["112"]
+  },
+  "PK": {
+    "police": ["15"],
+    "fire": ["16"],
+    "ambulance": ["115"],
+    "disaster": ["1122"]
+  },
+  "PH": {
+    "police": ["117"],
+    "fire": ["117"],
+    "ambulance": ["117"],
+    "disaster": ["117"]
+  },
+  "ID": {
+    "police": ["110"],
+    "fire": ["113"],
+    "ambulance": ["118"],
+    "disaster": ["119"]
+  },
+  "SA": {
+    "police": ["999"],
+    "fire": ["998"],
+    "ambulance": ["997"],
+    "disaster": ["112"]
+  },
+  "AE": {
+    "police": ["999"],
+    "fire": ["998"],
+    "ambulance": ["997"],
+    "disaster": ["112"]
+  },
+  "IL": {
+    "police": ["100"],
+    "fire": ["102"],
+    "ambulance": ["101"],
+    "disaster": ["100"]
+  },
+  "KW": {
+    "police": ["112"],
+    "fire": ["112"],
+    "ambulance": ["112"],
+    "disaster": ["112"]
+  },
+  "LB": {
+    "police": ["112"],
+    "fire": ["125"],
+    "ambulance": ["140"],
+    "disaster": ["112"]
+  },
+  "SY": {
+    "police": ["110"],
+    "fire": ["113"],
+    "ambulance": ["112"],
+    "disaster": ["112"]
+  },
+  "OM": {
+    "police": ["9999"],
+    "fire": ["9999"],
+    "ambulance": ["9999"],
+    "disaster": ["112"]
+  },
+  "JO": {
+    "police": ["911"],
+    "fire": ["911"],
+    "ambulance": ["911"],
+    "disaster": ["911"]
+  },
+  "IQ": {
+    "police": ["104"],
+    "fire": ["115"],
+    "ambulance": ["115"],
+    "disaster": ["112"]
+  },
+  "IR": {
+    "police": ["110"],
+    "fire": ["115"],
+    "ambulance": ["115"],
+    "disaster": ["115"]
+  },
+  "TR": {
+    "police": ["155"],
+    "fire": ["110"],
+    "ambulance": ["112"],
+    "disaster": ["112"]
+  },
+  "GR": {
+    "police": ["100"],
+    "fire": ["199"],
+    "ambulance": ["166"],
+    "disaster": ["112"]
+  },
+  "IT": {
+    "police": ["112"],
+    "fire": ["115"],
+    "ambulance": ["118"],
+    "disaster": ["112"]
+  },
+  "ES": {
+    "police": ["112"],
+    "fire": ["112"],
+    "ambulance": ["112"],
+    "disaster": ["112"]
+  },
+  "FR": {
+    "police": ["17"],
+    "fire": ["18"],
+    "ambulance": ["15"],
+    "disaster": ["112"]
+  },
+  "GB": {
+    "police": ["999"],
+    "fire": ["999"],
+    "ambulance": ["999"],
+    "disaster": ["112"]
+  },
+  "PT": {
+    "police": ["112"],
+    "fire": ["112"],
+    "ambulance": ["112"],
+    "disaster": ["112"]
+  },
+  "BE": {
+    "police": ["101"],
+    "fire": ["100"],
+    "ambulance": ["100"],
+    "disaster": ["112"]
+  },
+  "CH": {
+    "police": ["117"],
+    "fire": ["118"],
+    "ambulance": ["144"],
+    "disaster": ["112"]
+  },
+  "CZ": {
+    "police": ["112"],
+    "fire": ["150"],
+    "ambulance": ["155"],
+    "disaster": ["112"]
+  },
+  "PL": {
+    "police": ["997"],
+    "fire": ["998"],
+    "ambulance": ["999"],
+    "disaster": ["112"]
+  }, "SE": {
+    "police": ["112"],
+    "fire": ["112"],
+    "ambulance": ["112"],
+    "disaster": ["112"]
+  },
+  "FI": {
+    "police": ["112"],
+    "fire": ["112"],
+    "ambulance": ["112"],
+    "disaster": ["112"]
+  },
+  "NO": {
+    "police": ["112"],
+    "fire": ["110"],
+    "ambulance": ["113"],
+    "disaster": ["112"]
+  },
+  "DK": {
+    "police": ["112"],
+    "fire": ["112"],
+    "ambulance": ["112"],
+    "disaster": ["112"]
+  },
+  "IS": {
+    "police": ["112"],
+    "fire": ["112"],
+    "ambulance": ["112"],
+    "disaster": ["112"]
+  },
+  "AT": {
+    "police": ["133"],
+    "fire": ["122"],
+    "ambulance": ["144"],
+    "disaster": ["112"]
+  },
+  "HR": {
+    "police": ["112"],
+    "fire": ["112"],
+    "ambulance": ["112"],
+    "disaster": ["112"]
+  },
+  "SI": {
+    "police": ["113"],
+    "fire": ["112"],
+    "ambulance": ["112"],
+    "disaster": ["112"]
+  },
+  "HU": {
+    "police": ["112"],
+    "fire": ["105"],
+    "ambulance": ["104"],
+    "disaster": ["112"]
+  },
+  "RO": {
+    "police": ["112"],
+    "fire": ["112"],
+    "ambulance": ["112"],
+    "disaster": ["112"]
+  },
+  "BG": {
+    "police": ["112"],
+    "fire": ["160"],
+    "ambulance": ["150"],
+    "disaster": ["112"]
+  },
+  "RS": {
+    "police": ["192"],
+    "fire": ["193"],
+    "ambulance": ["194"],
+    "disaster": ["112"]
+  },
+  "MK": {
+    "police": ["192"],
+    "fire": ["193"],
+    "ambulance": ["194"],
+    "disaster": ["112"]
+  },
+  "AM": {
+    "police": ["102"],
+    "fire": ["101"],
+    "ambulance": ["103"],
+    "disaster": ["112"]
+  },
+  "AZ": {
+    "police": ["102"],
+    "fire": ["101"],
+    "ambulance": ["103"],
+    "disaster": ["112"]
+  },
+  "BY": {
+    "police": ["102"],
+    "fire": ["101"],
+    "ambulance": ["103"],
+    "disaster": ["112"]
+  },
+  "UA": {
+    "police": ["102"],
+    "fire": ["101"],
+    "ambulance": ["103"],
+    "disaster": ["112"]
+  },
+  "MD": {
+    "police": ["902"],
+    "fire": ["901"],
+    "ambulance": ["903"],
+    "disaster": ["901"]
+  },
+  "GE": {
+    "police": ["112"],
+    "fire": ["112"],
+    "ambulance": ["112"],
+    "disaster": ["112"]
+  },
+  "UZ": {
+    "police": ["102"],
+    "fire": ["101"],
+    "ambulance": ["103"],
+    "disaster": ["112"]
+  },
+  "KG": {
+    "police": ["102"],
+    "fire": ["101"],
+    "ambulance": ["103"],
+    "disaster": ["112"]
+  },
+  "TM": {
+    "police": ["102"],
+    "fire": ["101"],
+    "ambulance": ["103"],
+    "disaster": ["112"]
+  },
+  "TJ": {
+    "police": ["102"],
+    "fire": ["101"],
+    "ambulance": ["103"],
+    "disaster": ["112"]
+  },
+  "KZ": {
+    "police": ["102"],
+    "fire": ["101"],
+    "ambulance": ["103"],
+    "disaster": ["112"]
+  },
+  "MN": {
+    "police": ["102"],
+    "fire": ["101"],
+    "ambulance": ["103"],
+    "disaster": ["112"]
+  },
+  "BT": {
+    "police": ["113"],
+    "fire": ["113"],
+    "ambulance": ["113"],
+    "disaster": ["113"]
+  },
+  "NP": {
+    "police": ["100"],
+    "fire": ["101"],
+    "ambulance": ["102"],
+    "disaster": ["103"]
+  }
+}
