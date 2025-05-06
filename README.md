@@ -1,3 +1,5 @@
+# Emergency Numbers API
+
 This repository contains a **JSON file** with **emergency contact numbers** for various countries. The data is structured in a way that can be easily accessed for use in projects that require emergency information.
 
 ### Purpose
@@ -115,5 +117,4 @@ The data is already structured in a way that makes it easy to integrate into any
 
 License
 This project is intended for personal or private use. Feel free to integrate it into your projects, but please do not distribute it for commercial purposes unless permission is granted.
-
 
